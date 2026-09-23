@@ -71,7 +71,7 @@ const jobs = [
   {
     period: 'FEB 2025 — MAR 2025',
     current: false,
-    role: 'Full Stack Web Developer Intern',
+    role: 'Web Developer Intern',
     org: 'CodeSpirit',
     location: 'Web Engineering',
     body: 'Built a web platform providing centralized updates for national and international hackathons, integrating notifications and event tracking.',
